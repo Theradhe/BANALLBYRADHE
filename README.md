@@ -1,5 +1,7 @@
 # sᴛʀᴀɴɢᴇʀ ʙᴀɴ ᴀʟʟ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇs!!!
 
+<p align="center"><a href="https://t.me/SHIVANSH39"><img src="https://te.legra.ph/file/8e779ca298fb47f368f2b.jpg" width="400"></a></p>
+
 ᴛʜɪs ʙᴏᴛ ᴄᴀɴ ᴅᴇsᴛʀᴏʏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ɪɴ ᴀ ғᴇᴡ sᴇᴄᴏɴᴅs...
 
 ## ᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ ɪᴛ ᴏɴ ʜᴇʀᴏᴋᴜ ᴇᴀsɪʟʏ! 💜
