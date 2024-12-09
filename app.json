@@ -3,7 +3,7 @@
     "description": "sɪᴍᴘʟᴇ ʙᴏᴛ ᴛᴏ ʙᴀɴ ᴀʟʟ ᴛʜᴇ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴛʜᴇ ᴡʜᴏʟᴇ ᴄʜᴀᴛs",
     "logo": "https://te.legra.ph/file/8e779ca298fb47f368f2b.jpg",
     "keywords": ["sᴛʀᴀɴɢᴇʀ-sʜɪᴠᴀɴsʜ", "ʙᴀɴ-ᴀʟʟ"],
-    "repository": "https://github.com/itzshukla/STRANGER-BANALL",
+    "repository": "https://github.com/Theradhe/BANALLBYRADHE",
   "stack": "container",
     "env": {
         "BOT_TOKEN": {
